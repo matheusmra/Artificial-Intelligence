@@ -14,9 +14,9 @@ Assim, generalização é discutida para este teste reservado, sem afirmar super
 
 **Otimizadores (4.c).** Os melhores hiperparâmetros diferiram em 7 das 8
 comparações pareadas (valores completos na tabela de buscas). Random Search teve F1 CV médio
-0.736 e tempo médio 4.1 s por busca;
-Optuna/TPE, 0.737 e 4.1 s.
-**Optuna TPE** foi mais rápido em média e **Optuna TPE** teve maior F1 médio de validação.
+0.736 e tempo médio 3.8 s por busca;
+Optuna/TPE, 0.737 e 3.8 s.
+**Random Search** foi mais rápido em média e **Optuna TPE** teve maior F1 médio de validação.
 Esses números expressam o compromisso tempo/qualidade com 12 candidatos; uma única semente e três folds
 não permitem afirmar diferença estatisticamente significativa entre otimizadores.
 

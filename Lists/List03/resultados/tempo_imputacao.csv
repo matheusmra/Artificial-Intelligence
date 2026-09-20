@@ -1,3 +1,3 @@
 imputacao,tempo_fit_transform_s,convergiu,rodadas
-KNN,0.010260916999868641,True,
-MissForest,0.6437576670005001,True,2.0
+KNN,0.007315625000046566,True,
+MissForest,0.5504867079980613,True,2.0
