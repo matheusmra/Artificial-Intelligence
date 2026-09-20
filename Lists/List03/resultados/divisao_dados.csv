@@ -1,0 +1,4 @@
+conjunto,total,não sobreviveu,sobreviveu,proporção sobreviventes
+Base,1309,809,500,0.3819709702062643
+Treino,1047,647,400,0.38204393505253104
+Teste,262,162,100,0.3816793893129771

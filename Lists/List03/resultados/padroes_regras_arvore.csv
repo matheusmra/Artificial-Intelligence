@@ -1,0 +1,17 @@
+folha,passageiros,taxa_sobrevivencia,regra,predicao_arvore
+14,335,0.15522388059701492,sex_female <= 0.003 E age > 9.492 E pclass > 1.500 E age <= 32.250,0
+15,161,0.08074534161490683,sex_female <= 0.003 E age > 9.492 E pclass > 1.500 E age > 32.250,0
+27,145,0.5379310344827586,sex_female > 0.003 E pclass > 2.985 E fare <= 23.350 E fare > 7.256,1
+23,130,0.9846153846153847,sex_female > 0.003 E pclass <= 2.985 E fare > 26.024 E age > 2.762,1
+11,83,0.40963855421686746,sex_female <= 0.003 E age > 9.492 E pclass <= 1.500 E age <= 45.498,1
+12,53,0.18867924528301888,sex_female <= 0.003 E age > 9.492 E pclass <= 1.500 E age > 45.498,0
+19,40,0.85,sex_female > 0.003 E pclass <= 2.985 E fare <= 26.024 E sibsp <= 0.940,1
+20,21,0.7142857142857143,sex_female > 0.003 E pclass <= 2.985 E fare <= 26.024 E sibsp > 0.940,1
+30,18,0.05555555555555555,sex_female > 0.003 E pclass > 2.985 E fare > 23.350 E age > 7.312,0
+5,16,0.6875,sex_female <= 0.003 E age <= 9.492 E sibsp <= 2.500 E pclass > 2.829,1
+4,11,1.0,sex_female <= 0.003 E age <= 9.492 E sibsp <= 2.500 E pclass <= 2.829,1
+8,10,0.0,sex_female <= 0.003 E age <= 9.492 E sibsp > 2.500 E age > 3.500,0
+26,10,0.9,sex_female > 0.003 E pclass > 2.985 E fare <= 23.350 E fare <= 7.256,1
+7,6,0.16666666666666666,sex_female <= 0.003 E age <= 9.492 E sibsp > 2.500 E age <= 3.500,0
+29,5,0.2,sex_female > 0.003 E pclass > 2.985 E fare > 23.350 E age <= 7.312,0
+22,3,0.6666666666666666,sex_female > 0.003 E pclass <= 2.985 E fare > 26.024 E age <= 2.762,1

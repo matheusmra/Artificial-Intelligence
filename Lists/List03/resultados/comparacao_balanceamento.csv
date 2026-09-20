@@ -1,0 +1,9 @@
+imputacao,balanceamento,etapa,classe_0,classe_1,total,proporcao_classe_1
+KNN,SMOTE,Antes,647,400,1047,0.38204393505253104
+KNN,SMOTE,Depois,647,647,1294,0.5
+KNN,RandomUnderSampling,Antes,647,400,1047,0.38204393505253104
+KNN,RandomUnderSampling,Depois,400,400,800,0.5
+MissForest,SMOTE,Antes,647,400,1047,0.38204393505253104
+MissForest,SMOTE,Depois,647,647,1294,0.5
+MissForest,RandomUnderSampling,Antes,647,400,1047,0.38204393505253104
+MissForest,RandomUnderSampling,Depois,400,400,800,0.5
